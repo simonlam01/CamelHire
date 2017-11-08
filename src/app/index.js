@@ -6,20 +6,19 @@ import { Home } from "./components/Home";
 import { About } from "./components/About";
 
 var headerContainerCss = {
-    "background": "lightblue",
+    "background": "rgb(238, 102, 0)",
     "height": "50px"
 };
 
 var anchorCss = {
     "color": "white",
-    "fontFamily": "sans-serif",
     "textDecoration": "none",
     "float": "right",
-    "backgroundColor": "lightskyblue",
+    "backgroundColor": "rgb(238, 102, 0)",
     "height": "100%",
     "width": "100px",
     "textAlign": "center",
-    "borderLeft": "2px solid darkblue"
+    "borderLeft": "1px solid lightgrey"
 };
 
 var tabTextCss = {
@@ -28,7 +27,7 @@ var tabTextCss = {
 
 var siteLogoContainer = {
     "marginLeft": "20px",
-    "marginTop": "10px",
+    "marginTop": "15px",
     "position": "absolute"
 };
 
